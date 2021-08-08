@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ethaniccc\NoDebuffBot;
+namespace ilai\JoinCore;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
